@@ -1,6 +1,6 @@
 <h1>Overview</h1>
 
-Welcome to the GitHub repo of [RedditSnap](https://www.andycw.com/RedditSnap)! RedditSnap is a simple web app that provides visualisation for the upvote trends of Reddit posts over time. The app takes a snapshot of Reddit posts every 10 minutes, which is why the app is named RedditSnap.
+Welcome to the GitHub repo of [RedditSnap](https://www.andycw.com/RedditSnap) (originally hosted on AWS from July 2024 to June 2025)! RedditSnap is a simple web app that provides visualisation for the upvote trends of Reddit posts over time. The app takes a snapshot of Reddit posts every 10 minutes, which is why the app is named RedditSnap.
 
 <h3>Features</h3>
     <ol>
